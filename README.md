@@ -18,7 +18,8 @@ A B C D E F G
 
 ```
 
-From the above graph specification, the below would be the output from runnning the program.  Note that "infinity" is defined here to be 1000 to avoid an integer wrap around, so if edges weights and distances are larger than 1000 then this value would need to be modified.
+## Expected Output
+From the above graph specification, the below would be the output from running the program.  Note that "infinity" is defined here to be 1000 to avoid an integer wrap around, so if edges weights and distances are larger than 1000 then this value would need to be modified.
 
 ```
 0-path
